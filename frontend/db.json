@@ -1,0 +1,26 @@
+{
+  "blogs": [
+    {
+      "name": "kuldeep"
+    },
+    {
+      "id": 5
+    },
+    {
+      "title": "a",
+      "description": "a",
+      "category": "Fashion",
+      "imageUrl": "",
+      "date": "03/07/2022",
+      "id": 6
+    },
+    {
+      "title": "a",
+      "description": "a",
+      "category": "Fashion",
+      "imageUrl": "",
+      "date": "03/07/2022",
+      "id": 7
+    }
+  ]
+}
